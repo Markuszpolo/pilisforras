@@ -7,5 +7,10 @@ html{
     font-size: 16px;
 }
 body{
-    background-color: #629d66;
+    background: url('../img/bg.png') repeat-x #629d66;
+}
+.container{
+    background: white;
+    margin: 0 auto;
+    max-width: 1000px;
 }
